@@ -11,7 +11,8 @@ def removeFluff(fluff):
 
 file = open("quotes.txt","a")
 
-url = 'https://www.goodreads.com/quotes/tag/mindfulness?page=16'
+page = "16"
+url = "https://www.goodreads.com/quotes/tag/mindfulness?page=" + page
 r = requests.get(url)
 html = r.text
 
