@@ -1,5 +1,5 @@
 # Mindfulness Twitter Bot
-Twitter bot that tweets mindfulness quotes sourced from [Goodreads](https://www.goodreads.com/quotes/tag/mindfulness)
+A Python bot that tweets mindfulness quotes sourced from [Goodreads](https://www.goodreads.com/quotes/tag/mindfulness)
 
 ## Dependencies
 - Beautiful Soup 
